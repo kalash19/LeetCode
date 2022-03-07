@@ -1,3 +1,7 @@
+
+
+import java.util.Arrays;
+
 public class canMakeArithmeticProgression {
     class Solution {
         public boolean canMakeArithmeticProgression(int[] arr) {

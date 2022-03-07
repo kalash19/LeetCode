@@ -1,3 +1,7 @@
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class kidsWithCandies {
     class Solution {
         public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {

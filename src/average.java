@@ -1,6 +1,8 @@
+import java.util.Arrays;
 public class average {
     class Solution {
         public double average(int[] salary) {
+
             Arrays.sort(salary);
             double sum=0;
             int count=0;
